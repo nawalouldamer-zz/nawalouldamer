@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: page
 title: About
 permalink: /about/
---- -->
+---
 
-### Hi there 👋, I am Nawal OULD AMER
+**Hi there 👋, I am Nawal OULD AMER**
 I design and build machine learning scientist. Currently, I'm an Lead Research Scientist at Airbus. Outside of work:
 - 🔭 I’m working on **Building NLP Systems**
 - 🌱 I’m learning **How to Build ML Systems at Scale**
