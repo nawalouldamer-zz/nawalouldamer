@@ -11,9 +11,10 @@ I design and build machine learning scientist. Currently, I'm an Lead Research S
 - 👯 I’m looking to **Collaborate on NLP systems at Scale**
 - 📫 How to reach me: noa@nawalouldamer.com
 - ⚡ Fun fact: I love cats and I have two: Paladin and Yuki
+
 Paladin            |  Yuki
 :-------------------------:|:-------------------------:
-![](./images/paladin.jpg)  |  ![](./images/yuki.jpg)
+![paladin](./images/paladin.jpg)  |  ![yuki](./images/yuki.jpg)
 <!--
 **nawalouldamer/nawalouldamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
