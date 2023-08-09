@@ -10,9 +10,9 @@ I design and build machine learning scientist. Currently, I'm an Lead Research S
 - 🌱 I’m learning **How to Build ML Systems at Scale**
 - 👯 I’m looking to **Collaborate on NLP systems at Scale**
 - 📫 How to reach me: noa@nawalouldamer.com
-- ⚡ Fun fact: I love cats and I have two: Paladin and Yuki
+- ⚡ Fun fact: I love cats and I have two
 
-| Cat pics                            | Dog pics                            |
+| Paladin                            | Yuki                            |
 | ----------------------------------- | ----------------------------------- |
 | ![paladin](./images/paladin.jpg) | ![yuki](./images/yuki.jpg) |
 
